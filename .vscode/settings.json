@@ -1,0 +1,13 @@
+{
+    
+    "editor.formatOnSave": true,
+    "files.associations": {
+        "**/templates/**/*.html": "django-html"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html"
+    },
+    
+    "python.defaultInterpreterPath": "/home/python/app/.venv/bin/python",
+    "python.terminal.activateEnvironment": true
+}
